@@ -1,0 +1,347 @@
+127.0.0.53 localhost
+192.145.234.184 localhost
+127.0.0.53 localhost.localdomain
+127.0.0.53 localdomain
+127.0.0.53 local
+255.255.255.255 broadcasthost
+104.16.237.236 localdomain
+104.16.236.236 localdomain
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+255.255.255.255 255.255.255.255
+_________star__________
+127.0.0.53 104.16.237.236
+127.0.0.53 104.16.236.236
+127.0.0.53 2606:4700::6810:ecec
+127.0.0.53 2606:4700::6810:edec
+127.0.0.53 naomi.ns.cloudflare.com
+127.0.0.53 lloyd.ns.cloudflare.com
+127.0.0.53 dns.cloudflare.com
+127.0.0.53 aspmx.l.google.com
+127.0.0.53 alt2.aspmx.l.google.com
+127.0.0.53 alt3.aspmx.l.google.com
+127.0.0.53 alt4.aspmx.l.google.com
+127.0.0.53 http://www.namecheap.com
+127.0.0.53 whois.namecheap.com
+127.0.0.53 https://www.icann.org/wicf/
+127.0.0.53 www.bihomo.com
+127.0.0.53 www.bijomo.com
+127.0.0.53 www.bimomo.com
+127.0.0.53 www.binimo.com
+127.0.0.53 www.binkmo.com
+127.0.0.53 www.binlmo.com
+127.0.0.53 www.binpmo.com
+127.0.0.53 www.binono.com
+127.0.0.53 www.binoho.com
+127.0.0.53 www.binojo.com
+127.0.0.53 www.binoko.com
+127.0.0.53 www.binolo.com
+127.0.0.53 www.binomi.com
+127.0.0.53 www.binomk.com
+127.0.0.53 www.binoml.com
+127.0.0.53 www.binomp.com
+127.0.0.53 binomo.com
+ 127.0.0.53 binomo.com 
+127.0.0.53 cbinomo.com; child-src 
+127.0.0.53 ; frame-ancestors 'self'; connect-src 'self' 
+127.0.0.53 ada.support 
+127.0.0.53 tiktok.com 
+127.0.0.53 rtmark.net 
+127.0.0.53 .clarity.ms 
+127.0.0.53 .criteo.net 
+127.0.0.53 .criteo.com 
+127.0.0.53 licdn.com 
+127.0.0.53 ads.linkedin.com 
+127.0.0.53 remarketingpixel.com 
+127.0.0.53 ads-twitter.com 
+127.0.0.53 bing.com 
+127.0.0.53 net tr
+127.0.0.53 snapchat.com 
+127.0.0.53 hotjar.io 
+127.0.0.53 hotjar.com 
+127.0.0.53 ://127.0.0.53 
+127.0.0.53.com 
+127.0.0.53 g.doubleclick.net 
+127.0.0.53 zopim.com 
+127.0.0.53 launchdarkly.com
+127.0.0.53 exponea.com 
+127.0.0.53 api-cis.exponea.com 
+127.0.0.53 exponea.com 
+127.0.0.53 zdassets.com 
+127.0.0.53 mathtag.com 
+127.0.0.53 google.com 
+127.0.0.53 google.com 
+127.0.0.53 googleapis.com 
+127.0.0.53 googleapis.com 
+127.0.0.53 google-analytics.com 
+127.0.0.53 ://127.0.0.53 
+127.0.0.53 com binomo
+127.0.0.53 com binomo2
+127.0.0.53 zendesk.com 
+127.0.0.53 app.getsentry.com
+127.0.0.53 binomo.com 
+127.0.0.53 binomo.com 
+127.0.0.53 cbinomo.com
+127.0.0.53 wss://as.binomo.com
+127.0.0.53 wss://as.binomo.com
+127.0.0.53  wss://ws.binomo.com
+127.0.0.53  wss://ws.binomo.com
+127.0.0.53  s.yimg.com
+127.0.0.53 https://mc.yandex.ru; font-src data: 'self' 
+127.0.0.53 zopim.com 
+127.0.0.53 gstatic.com 
+127.0.0.53 googleusercontent.com 
+127.0.0.53 binomo.com 
+127.0.0.53 binomo.com 
+127.0.0.53 cbinomo.com; img-src 
+127.0.0.53 127.0.0.53
+127.0.0.53 ttwstatic.com data:; media-src 'self' 
+127.0.0.53 binomo.com 
+127.0.0.53 binomo.com 
+127.0.0.53 cbinomo.com; script-src 'self' 
+127.0.0.53 ada.support 
+127.0.0.53 tiktok.com 
+127.0.0.53 ttwstatic.com 
+127.0.0.53 ads-twitter.com 
+127.0.0.53 net
+127.0.0.53 tr.snapchat.com
+127.0.0.53 clarity.ms 
+127.0.0.53 hotjar.io 
+127.0.0.53 hotjar.com 
+127.0.0.53 www.redditstatic.com 
+127.0.0.53 doubleclick.net 
+127.0.0.53 google.com 
+127.0.0.53 assets.zendesk.com 
+127.0.0.53 zdassets.com
+127.0.0.53 zopim.com
+127.0.0.53 wss://127.0.0.53 
+127.0.0.53 zopim.com 127.0.0.53 
+zopim.io binomo.co 
+127.0.0.53 my.rtmark.net 
+127.0.0.53 criteo.net 
+127.0.0.53 criteo.com 
+127.0.0.53 snap.licdn.com 
+127.0.0.53 px.ads.linkedin.com 
+127.0.0.53 remarketingpixel.com 
+127.0.0.53 getsitecontrol.com 
+127.0.0.53 
+127.0.0.53 googletagmanager.com 
+127.0.0.53 google-analytics.com 
+127.0.0.53 echo.ecortb.com 
+127.0.0.53 connect.facebook.net 
+127.0.0.53 vk.com 
+127.0.0.53 youtube.com
+127.0.0.53 s.yimg.com
+127.0.0.53 s.ytimg.com
+127.0.0.53 bat.bing.com 
+127.0.0.53 gstatic.com
+127.0.0.53 www.googleadservices.com
+127.0.0.53 binomo.go2affise.com
+127.0.0.53 api.exponea.com
+127.0.0.53 api.api-cis.exponea.com
+127.0.0.53 api-cis.exponea.com 
+127.0.0.53 adnetwork.vn 
+127.0.0.53 storage.googleapis.com 
+127.0.0.53 sp.analytics.yahoo.com 'unsafe-eval' 'unsafe-inline' 
+127.0.0.53 binomo.com 
+127.0.0.53 binomo.com 
+127.0.0.53 cbinomo.com 
+127.0.0.53 https://unpkg.com/@lottiefiles/lottie-player@0.2.0/dist/lottie-player.js 
+127.0.0.53 https://mc.yandex.ru https://yastatic.net; style-src 'self' 
+127.0.0.53 ttwstatic.com 
+127.0.0.53 google.com 
+127.0.0.53 googleapis.com 'unsafe-inline' 
+127.0.0.53 binomo.com
+127.0.0.53 binomo.com 
+127.0.0.53 cbinomo.com
+127.0.0.53 172.67.171.34
+127.0.0.53 20.57.85.160
+127.0.0.53 104.21.3.41
+127.0.0.53 firebaseremoteconfig.googleapis.com
+127.0.0.53 205.251.253.108
+127.0.0.53 13.107.246.58
+127.0.0.53 34.96.75.226
+127.0.0.53 4.153.25.145
+127.0.0.53 142.250.183.234
+127.0.0.53 18.161.232.10
+127.0.0.53 157.240.23.19127.0.0.53 localhost
+192.145.234.184 localhost
+127.0.0.53 localhost.localdomain
+127.0.0.53 localdomain
+127.0.0.53 local
+255.255.255.255 broadcasthost
+104.16.237.236 localdomain
+104.16.236.236 localdomain
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+255.255.255.255 255.255.255.255
+_________star__________
+127.0.0.53 104.16.237.236
+127.0.0.53 104.16.236.236
+127.0.0.53 2606:4700::6810:ecec
+127.0.0.53 2606:4700::6810:edec
+127.0.0.53 naomi.ns.cloudflare.com
+127.0.0.53 lloyd.ns.cloudflare.com
+127.0.0.53 dns.cloudflare.com
+127.0.0.53 aspmx.l.google.com
+127.0.0.53 alt2.aspmx.l.google.com
+127.0.0.53 alt3.aspmx.l.google.com
+127.0.0.53 alt4.aspmx.l.google.com
+127.0.0.53 http://www.namecheap.com
+127.0.0.53 whois.namecheap.com
+127.0.0.53 https://www.icann.org/wicf/
+127.0.0.53 www.bihomo.com
+127.0.0.53 www.bijomo.com
+127.0.0.53 www.bimomo.com
+127.0.0.53 www.binimo.com
+127.0.0.53 www.binkmo.com
+127.0.0.53 www.binlmo.com
+127.0.0.53 www.binpmo.com
+127.0.0.53 www.binono.com
+127.0.0.53 www.binoho.com
+127.0.0.53 www.binojo.com
+127.0.0.53 www.binoko.com
+127.0.0.53 www.binolo.com
+127.0.0.53 www.binomi.com
+127.0.0.53 www.binomk.com
+127.0.0.53 www.binoml.com
+127.0.0.53 www.binomp.com
+127.0.0.53 binomo.com
+ 127.0.0.53 binomo.com 
+127.0.0.53 cbinomo.com; child-src 
+127.0.0.53 ; frame-ancestors 'self'; connect-src 'self' 
+127.0.0.53 ada.support 
+127.0.0.53 tiktok.com 
+127.0.0.53 rtmark.net 
+127.0.0.53 .clarity.ms 
+127.0.0.53 .criteo.net 
+127.0.0.53 .criteo.com 
+127.0.0.53 licdn.com 
+127.0.0.53 ads.linkedin.com 
+127.0.0.53 remarketingpixel.com 
+127.0.0.53 ads-twitter.com 
+127.0.0.53 bing.com 
+127.0.0.53 net tr
+127.0.0.53 snapchat.com 
+127.0.0.53 hotjar.io 
+127.0.0.53 hotjar.com 
+127.0.0.53 ://127.0.0.53 
+127.0.0.53.com 
+127.0.0.53 g.doubleclick.net 
+127.0.0.53 zopim.com 
+127.0.0.53 launchdarkly.com
+127.0.0.53 exponea.com 
+127.0.0.53 api-cis.exponea.com 
+127.0.0.53 exponea.com 
+127.0.0.53 zdassets.com 
+127.0.0.53 mathtag.com 
+127.0.0.53 google.com 
+127.0.0.53 google.com 
+127.0.0.53 googleapis.com 
+127.0.0.53 googleapis.com 
+127.0.0.53 google-analytics.com 
+127.0.0.53 ://127.0.0.53 
+127.0.0.53 com binomo
+127.0.0.53 com binomo2
+127.0.0.53 zendesk.com 
+127.0.0.53 app.getsentry.com
+127.0.0.53 binomo.com 
+127.0.0.53 binomo.com 
+127.0.0.53 cbinomo.com
+127.0.0.53 wss://as.binomo.com
+127.0.0.53 wss://as.binomo.com
+127.0.0.53  wss://ws.binomo.com
+127.0.0.53  wss://ws.binomo.com
+127.0.0.53  s.yimg.com
+127.0.0.53 https://mc.yandex.ru; font-src data: 'self' 
+127.0.0.53 zopim.com 
+127.0.0.53 gstatic.com 
+127.0.0.53 googleusercontent.com 
+127.0.0.53 binomo.com 
+127.0.0.53 binomo.com 
+127.0.0.53 cbinomo.com; img-src 
+127.0.0.53 127.0.0.53
+127.0.0.53 ttwstatic.com data:; media-src 'self' 
+127.0.0.53 binomo.com 
+127.0.0.53 binomo.com 
+127.0.0.53 cbinomo.com; script-src 'self' 
+127.0.0.53 ada.support 
+127.0.0.53 tiktok.com 
+127.0.0.53 ttwstatic.com 
+127.0.0.53 ads-twitter.com 
+127.0.0.53 net
+127.0.0.53 tr.snapchat.com
+127.0.0.53 clarity.ms 
+127.0.0.53 hotjar.io 
+127.0.0.53 hotjar.com 
+127.0.0.53 www.redditstatic.com 
+127.0.0.53 doubleclick.net 
+127.0.0.53 google.com 
+127.0.0.53 assets.zendesk.com 
+127.0.0.53 zdassets.com
+127.0.0.53 zopim.com
+127.0.0.53 wss://127.0.0.53 
+127.0.0.53 zopim.com 127.0.0.53 
+zopim.io binomo.co 
+127.0.0.53 my.rtmark.net 
+127.0.0.53 criteo.net 
+127.0.0.53 criteo.com 
+127.0.0.53 snap.licdn.com 
+127.0.0.53 px.ads.linkedin.com 
+127.0.0.53 remarketingpixel.com 
+127.0.0.53 getsitecontrol.com 
+127.0.0.53 
+127.0.0.53 googletagmanager.com 
+127.0.0.53 google-analytics.com 
+127.0.0.53 echo.ecortb.com 
+127.0.0.53 connect.facebook.net 
+127.0.0.53 vk.com 
+127.0.0.53 youtube.com
+127.0.0.53 s.yimg.com
+127.0.0.53 s.ytimg.com
+127.0.0.53 bat.bing.com 
+127.0.0.53 gstatic.com
+127.0.0.53 www.googleadservices.com
+127.0.0.53 binomo.go2affise.com
+127.0.0.53 api.exponea.com
+127.0.0.53 api.api-cis.exponea.com
+127.0.0.53 api-cis.exponea.com 
+127.0.0.53 adnetwork.vn 
+127.0.0.53 storage.googleapis.com 
+127.0.0.53 sp.analytics.yahoo.com 'unsafe-eval' 'unsafe-inline' 
+127.0.0.53 binomo.com 
+127.0.0.53 binomo.com 
+127.0.0.53 cbinomo.com 
+127.0.0.53 https://unpkg.com/@lottiefiles/lottie-player@0.2.0/dist/lottie-player.js 
+127.0.0.53 https://mc.yandex.ru https://yastatic.net; style-src 'self' 
+127.0.0.53 ttwstatic.com 
+127.0.0.53 google.com 
+127.0.0.53 googleapis.com 'unsafe-inline' 
+127.0.0.53 binomo.com
+127.0.0.53 binomo.com 
+127.0.0.53 cbinomo.com
+127.0.0.53 172.67.171.34
+127.0.0.53 20.57.85.160
+127.0.0.53 104.21.3.41
+127.0.0.53 firebaseremoteconfig.googleapis.com
+127.0.0.53 205.251.253.108
+127.0.0.53 13.107.246.58
+127.0.0.53 34.96.75.226
+127.0.0.53 4.153.25.145
+127.0.0.53 142.250.183.234
+127.0.0.53 18.161.232.10
+127.0.0.53 157.240.23.19
